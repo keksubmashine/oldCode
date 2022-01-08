@@ -1,7 +1,8 @@
-h1{color: blue;text-align: center; width: 500px;}
-h2{color: green;text-align: center; width: 500px;}
+h1{color: blue; width: 500px;}
+h2{color: green; width: 500px;}
 p{text-indent: 50px; width: 500px; font-size: 20px;}
 ul{font-size: 15px; width: 400px; text-align: justify;}
-ol{color: blue;}
-li{color: chartreuse;}
-i{color: aqua;}
+ol{color: blue; font-size: 50px;}
+li{color: chartreuse; font-size: 15px;}
+i{color: aqua; font-size: 30px;}
+h1,h2{text-align: left;}
