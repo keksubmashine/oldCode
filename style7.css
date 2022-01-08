@@ -1,0 +1,5 @@
+.eee {color: red; font-size: 20px;}
+.ggg {color: green; font-size: 30px;}
+.zzz {color: blue; font-size: 35px;}
+.eee, .ggg, .zzz{font-family: arial; text-align: center;}
+ul {width: 500;}
