@@ -1,4 +1,7 @@
-.green {color:lawngreen}
-.red {color: red}
-.large {font-size: large;}
-.small {font-size: small;}
+.green {color: green}
+.red{color: red;}
+.large {font-size: x-large;}
+.small { font-size: x-small;}
+#bold { font-weight: bold;}
+#italic { font-style: italic;}
+#black { color: black;}
