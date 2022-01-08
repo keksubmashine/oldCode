@@ -1,4 +1,4 @@
 h2{font-weight: normal; font-size: 40px;}
 h1{font-size: 50px; text-align: center;}
 p{
-    text-indent: 50px; width: 300px; color: red; font: italic bold 40px / 60px arial;}
+    text-indent: 50px; text-decoration: line-through; width: 300px; color: red; font: italic bold 40px / 60px arial;}
