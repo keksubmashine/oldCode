@@ -1,4 +1,5 @@
-.eee h2.bbb {
+.eee .bbb .kkk {
 	color: red;
 }
-h2 {color: green}
+p {color: green;}
+p.bbb {color: hotpink;}
