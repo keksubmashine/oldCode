@@ -7,3 +7,4 @@ ol li{color: chartreuse; font-size: 15px;}
 ul li{color: blueviolet; font-size: 20px;}
 i{color: aqua; font-size: 30px;}
 h1,h2{text-align: left;}
+ul, li> b{color: red;}
