@@ -1,5 +1,4 @@
-.eee .bbb .kkk {
-	color: red;
-}
-p {color: green;}
-p.bbb {color: hotpink;}
+.green {color:lawngreen}
+.red {color: red}
+.large {font-size: large;}
+.small {font-size: small;}
