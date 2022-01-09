@@ -1,8 +1,1 @@
-#block h1.eee {
-	text-align: center;
-	font-size: 30px;
-}
-#block h2.zzz {
-	text-align: center;
-	font-size: 20px;
-}
+p.bbb, p.xxx, h2.xxx, h2.bbb, div.bbb {color: red;}
