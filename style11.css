@@ -1,1 +1,5 @@
-.eee.zzz {color: hotpink}
+.bbb.zzz {
+	color: red;
+}
+.bbb {font-style: italic;}
+.zzz {font-weight: bold; font-size: 30px;}
