@@ -1,0 +1,10 @@
+div {background-image: url(fon.png);}
+p {   
+    border-radius: 3px;
+    border-style: ridge;
+    border-color: black;
+    border-radius: 5px 20px;
+ width: 100%;
+    height: 100px;
+    background-image: url ("fon.png");
+}
